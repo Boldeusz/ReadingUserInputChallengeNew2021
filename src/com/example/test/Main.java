@@ -21,9 +21,9 @@ public class Main {
                 count += number;
             } else {
                 System.out.println("Invalid number");
-                break;
+  //              break;
             }
-
+                scanner.nextLine();
         }
         System.out.println("Total of numbers: " + count);
 
