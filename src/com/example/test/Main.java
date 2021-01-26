@@ -26,9 +26,7 @@ public class Main {
 
         }
         System.out.println("Total of numbers: " + count);
-        //     int number = scanner.nextInt();
 
-        //       System.out.println("Number is: " + number);
 
         scanner.close();
     }
